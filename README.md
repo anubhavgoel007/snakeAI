@@ -1,6 +1,9 @@
 # SnakeAI Game using Qlearning
 
 -Implementation of the snake mobile game using AI. Took positive and negative points(reward) upon eating 'Food' and getting out (by colling with self or the walls) respectively.
+
+-Learned from a youtube channel named Python Engineer(Video Playlist- Teach AI to play Snake Game)
+
 -Reinforcement Learning
 
 -Deep Q Learning
